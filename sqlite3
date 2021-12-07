@@ -1,4 +1,14 @@
-For Windows Install Sqllite tools
+Higher Level Help Details at https://www.sqlite.org/draft/cli.html
+For Windows Install Sqllite tools or https://sqlitebrowser.org/dl/ for gui feel
 Once installed found in the following folder C:\Program Files (x86)\SQLite3Tools
 at command prompt enter sqlite3.exe
 open you database, for example > .open "file path with forward slashes"
+Basic Commands
+Show the schema
+.schema
+
+List Tables
+.tables
+
+Select Query
+
