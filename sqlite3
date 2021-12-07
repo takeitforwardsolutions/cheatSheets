@@ -1,0 +1,4 @@
+For Windows Install Sqllite tools
+Once installed found in the following folder C:\Program Files (x86)\SQLite3Tools
+at command prompt enter sqlite3.exe
+open you database, for example > .open "file path with forward slashes"
